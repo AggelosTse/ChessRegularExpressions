@@ -7,13 +7,13 @@ Extracting data from PGN (Portable Game Notation) files of chess games using reg
 
 ## Scripts
 
-    1.my_re_functions.py: This script extracts data from a single PGN game using regular expressions.
+1.my_re_functions.py: This script extracts data from a single PGN game using regular expressions.
 
-    2.test_my_re_functions.py: This file contains unit tests to validate the functionality of my_re_functions.py.
+2.test_my_re_functions.py: This file contains unit tests to validate the functionality of my_re_functions.py.
 
-    3.erotima1.py: This script extracts data from a file containing some PGN games using regular expressions.
+3.erotima1.py: This script extracts data from a file containing some PGN games using regular expressions.
 
-    4.erotima2.py: This script extracts data from a file containing multiple PGN games using regular expressions. (54000)
+4.erotima2.py: This script extracts data from a file containing multiple PGN games using regular expressions. (54000)
 
 ## Installation
 
